@@ -39,7 +39,7 @@ Arrow functions are an aesthetically pleasing alternative to the old `function()
 	let name = "David"
 	name = "Ashar"
 	```
-## 2. Writing
+## 2. Writing  
 Our writing style is similar to the [material design writing guidelines](https://material.io/guidelines/style/writing.html).
 1. **Use contractions where possible.**  
 	`You can not view this image!` becomes `You can't view this image!`.
