@@ -33,7 +33,8 @@ Arrow functions are an aesthetically pleasing alternative to the old `function()
 	var name = "David"
 	name = "Ashar"
 	```
-	becomes
+	becomes  
+
 	```js
 	const ACTION_CREATE = "ACTION_CREATE"
 	let name = "David"
@@ -54,7 +55,8 @@ Our writing style is similar to the [material design writing guidelines](https:/
 	Tapping on the floating action button will start the process of downloading
 	items. This will cause a long delay.
 	```
-	can be replaced with
+	can be replaced with  
+
 	```
 	Tap the button to start downloading items. This will take a while.
 	```
